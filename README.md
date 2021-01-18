@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/data-security-and-privacy-training-video/9781838643140)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Data-Security-and-Privacy-Training
 Code Repository for Data Security and Privacy Training, Published by Packt
 # Data Security and Privacy Training
